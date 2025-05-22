@@ -1,0 +1,35 @@
+# ignore .mat files
+*.mat
+# ignore figures
+*.fig
+*.png
+*.jpg
+*.eps
+
+# Ignore log files
+*.log
+*.out
+
+# Don't know where this is from but it keeps comming up
+*.DS_Store
+
+# Default good practice MATLAB ignores:
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# we do want data files
+# !ThreeState/TableTop/Data/*.mat
+# !ThreeState/GroundtoGround/Data/*mat
+# !ThreeState/CartoCar/Data/*mat
+# !ThreeState/AirtoCar/Data/*mat
+# !ThreeState/AirtoAir/Data/*mat

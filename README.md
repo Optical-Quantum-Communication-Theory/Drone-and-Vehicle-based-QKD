@@ -1,6 +1,6 @@
 # Drone and Vehicle Based Quantum Key Distribution
 
-This is a public version of the code used in *Drone and Vehicle Based Quantum Key Distribution*. This was built for [v2.0.2](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/releases/tag/v2.0.2) of the Open QKD Security package.
+This is a public version of the code used in *Drone and Vehicle Based Quantum Key Distribution* \[[Arxiv](https://arxiv.org/abs/2505.17587)\]. This was built for [v2.0.2](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/releases/tag/v2.0.2) of the Open QKD Security package.
 
 For each operational mode, e.g. "Air to Air", run the main file in the corresponding folder. To switch between different experimental runs of one operational mode follow the instructions summarized in the table below.
 
